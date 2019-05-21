@@ -1,0 +1,60 @@
+.content_3{width: 960px; margin: 50px auto 100px; color: #2f2f2f; font-size: 14px;}
+.menu_tip_wrap{margin-top: -30px;}
+.text_g_1{width: 380px; margin-left: auto; margin-top: -300px; margin-bottom: 120px;}
+.text_g_2{width: 380px; margin-left: auto; margin-top: -300px; margin-bottom: 180px;}
+.text_g_3{width: 380px; margin-left: auto; margin-top: -300px; margin-bottom: 200px;}
+.text_g_4{width: 380px; margin-left: auto; margin-top: -300px; margin-bottom: 180px;}
+.text_g_5{width: 380px; margin-left: auto; margin-top: -300px; margin-bottom: 120px;}
+.text_g_6{width: 380px; margin-left: auto; margin-top: -300px; margin-bottom: 140px;}
+.mtitle_1{font-size: 1rem; font-weight: 600; padding-bottom: 20px;}
+.mtitle_2{font-size: 1rem; font-weight: 600; padding-bottom: 20px;}
+.mtitle_3{font-size: 1rem; font-weight: 600; padding-bottom: 20px;}
+.mtitle_4{font-size: 1rem; font-weight: 600; padding-bottom: 20px;}
+.mtitle_5{font-size: 1rem; font-weight: 600; padding-bottom: 20px;}
+.mtitle_6{font-size: 1rem; font-weight: 600; padding-bottom: 20px;}
+.arasuji_1{font-size: 0.8rem;}
+.arasuji_2{font-size: 0.8rem;}
+.arasuji_3{font-size: 0.8rem;}
+.arasuji_4{font-size: 0.8rem;}
+.arasuji_5{font-size: 0.8rem;}
+.arasuji_6{font-size: 0.8rem;}
+.arasuji_1_1{color: #ffae00; font-size: 2rem; height: 35px; margin-top: -7px; font-weight: 600; float: left;}
+.arasuji_2_1{color: #6cb14b; font-size: 2rem; height: 35px; margin-top: -7px; font-weight: 600; float: left;}
+.arasuji_3_1{color: #0a7f9e; font-size: 2rem; height: 35px; margin-top: -7px; font-weight: 600; float: left;}
+.arasuji_4_1{color: #fe3d3d; font-size: 2rem; height: 35px; margin-top: -7px; font-weight: 600; float: left;}
+.arasuji_5_1{color: #417df4; font-size: 2rem; height: 35px; margin-top: -7px; font-weight: 600; float: left;}
+.arasuji_6_1{color: #e49708; font-size: 2rem; height: 35px; margin-top: -7px; font-weight: 600; float: left;}
+.reviewf_1{clear: left; color: #2f2f2f; font-size: 0.8rem; border: 1px solid #e4e4e4; background-color: #fbfbfb; width: 480px; margin-top: 10px; padding:30px 38px 20px 40px;}
+.reviewf_2{clear: left; color: #2f2f2f; font-size: 0.8rem; border: 1px solid #e4e4e4; background-color: #fbfbfb; width: 480px; margin-top: 10px; padding:30px 38px 20px 40px;}
+.reviewf_3{clear: left; color: #2f2f2f; font-size: 0.8rem; border: 1px solid #e4e4e4; background-color: #fbfbfb; width: 480px; margin-top: 10px; padding:30px 38px 20px 40px;}
+.reviewf_4{clear: left; color: #2f2f2f; font-size: 0.8rem; border: 1px solid #e4e4e4; background-color: #fbfbfb; width: 480px; margin-top: 10px; padding:30px 38px 20px 40px;}
+.reviewf_5{clear: left; color: #2f2f2f; font-size: 0.8rem; border: 1px solid #e4e4e4; background-color: #fbfbfb; width: 480px; margin-top: 10px; padding:30px 38px 20px 40px;}
+.reviewf_6{clear: left; color: #2f2f2f; font-size: 0.8rem; border: 1px solid #e4e4e4; background-color: #fbfbfb; width: 480px; margin-top: 10px; padding:30px 38px 20px 40px;}
+.radio_1{color: #2f2f2f; font-size: 0.8rem; line-height: 2;}
+.radio_2{color: #2f2f2f; font-size: 0.8rem; line-height: 2;}
+.radio_3{color: #2f2f2f; font-size: 0.8rem; line-height: 2;}
+.radio_4{color: #2f2f2f; font-size: 0.8rem; line-height: 2;}
+.radio_5{color: #2f2f2f; font-size: 0.8rem; line-height: 2;}
+.radio_6{color: #2f2f2f; font-size: 0.8rem; line-height: 2;}
+.form_title_1{margin-bottom: 10px;}
+.form_title_2{margin-bottom: 10px;}
+.form_title_3{margin-bottom: 10px;}
+.form_title_4{margin-bottom: 10px;}
+.form_title_5{margin-bottom: 10px;}
+.form_title_6{margin-bottom: 10px;}
+.submit_1{color: #2f2f2f; margin-top: 20px;}
+.submit_2{color: #2f2f2f; margin-top: 20px;}
+.submit_3{color: #2f2f2f; margin-top: 20px;}
+.submit_4{color: #2f2f2f; margin-top: 20px;}
+.submit_5{color: #2f2f2f; margin-top: 20px;}
+.submit_6{color: #2f2f2f; margin-top: 20px;}
+.sample_1{width: 380px; margin: -350px 40px 140px auto;}
+.sample_2{width: 380px; margin: -350px 40px 140px auto;}
+.sample_3{width: 380px; margin: -350px 40px 140px auto;}
+.sample_4{width: 380px; margin: -370px 40px 160px auto;}
+.sample_5{width: 380px; margin: -340px 40px 130px auto;}
+.sample_6{width: 380px; margin: -370px 40px 160px auto;}
+/* jQuery */
+#pageTop{position: fixed; bottom: 10px; right: 10%;}
+#pageTop a{display: block; z-index: 999; padding: 8px 0 0 8px; font-weight: bold; text-decoration: none; text-align: center;}
+#pageTop a:hover{text-decoration: none; opacity: 0.7;}
