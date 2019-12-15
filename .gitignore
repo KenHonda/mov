@@ -2,3 +2,4 @@
 /config/*
 /tmp/*
 /logs/*
+composer.lock
